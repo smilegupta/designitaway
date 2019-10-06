@@ -15,7 +15,7 @@
    viewBox="0 0 507.99998 285.75001"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="tipsTemplate.svg">
   <defs
      id="defs2">
@@ -13834,10 +13834,10 @@
      showgrid="false"
      units="px"
      showborder="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1019"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      width="1920px" />
   <metadata
@@ -13848,7 +13848,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -13860,8 +13860,8 @@
     <rect
        rx="0"
        ry="0"
-       y="11.24999"
-       x="0.066139162"
+       y="11.249979"
+       x="0.066134162"
        height="285.75"
        width="507.86771"
        id="rect10565"
@@ -13879,20 +13879,15 @@
        inkscape:connector-curvature="0" />
     <text
        id="text10575"
-       y="135.42134"
-       x="119.86295"
+       y="166.92467"
+       x="107.91342"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41097561"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41097561"
-         y="135.42134"
-         x="119.86295"
-         id="tspan10571"
-         sodipodi:role="line">&quot;It's not just a hackathon it's a festival</tspan><tspan
          id="tspan10573"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41097561"
-         y="155.97012"
-         x="119.86295"
-         sodipodi:role="line">So don't just create, Celebrate&quot;</tspan></text>
+         y="166.92467"
+         x="107.91342"
+         sodipodi:role="line">&quot;Open Source is like an OCEAN&quot;</tspan></text>
     <image
        width="107.06805"
        height="35.983334"
@@ -13911,18 +13906,18 @@
          y="263.12601"
          x="40.29435"
          id="tspan10579"
-         sodipodi:role="line">Autumn Hacks</tspan></text>
+         sodipodi:role="line">DOT</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06085587px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27652028"
-       x="298.48038"
-       y="173.40939"
+       x="345.1922"
+       y="182.09996"
        id="text10585"><tspan
          sodipodi:role="line"
-         x="298.48038"
-         y="173.40939"
+         x="345.1922"
+         y="182.09996"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06085587px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.27652028"
-         id="tspan10583">- Arshdeep Singh</tspan></text>
+         id="tspan10583">- Harjot Singh</tspan></text>
     <g
        transform="translate(-185.48914,63.647455)"
        id="g11051">
