@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="tipsTemplate.svg">
+   sodipodi:docname="tipsTemplatenew.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -13848,7 +13848,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -14842,5 +14842,16 @@
          id="path11149"
          inkscape:connector-curvature="0" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="363.37448"
+       y="209.55113"
+       id="text21442"><tspan
+         sodipodi:role="line"
+         id="tspan21440"
+         x="363.37448"
+         y="219.20663"
+         style="stroke-width:0.26458332"></tspan></text>
   </g>
 </svg>
