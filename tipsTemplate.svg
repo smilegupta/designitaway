@@ -15,22 +15,12 @@
    viewBox="0 0 507.99998 285.75001"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="tipsTemplate.svg">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Template.svg">
+  <title
+     id="title20010">Open Source</title>
   <defs
      id="defs2">
-    <linearGradient
-       id="linearGradient11159"
-       inkscape:collect="always">
-      <stop
-         id="stop11155"
-         offset="0"
-         style="stop-color:#333333;stop-opacity:0.545" />
-      <stop
-         id="stop11157"
-         offset="1"
-         style="stop-color:#840094;stop-opacity:1" />
-    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath37622">
@@ -13808,16 +13798,6 @@
          offset="1"
          id="stop26" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11159"
-       id="linearGradient11153"
-       gradientUnits="userSpaceOnUse"
-       x1="510.3959"
-       y1="160.64049"
-       x2="509.08435"
-       y2="206.18629"
-       gradientTransform="translate(-230.6379,40.216664)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -13826,18 +13806,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.487118"
-     inkscape:cx="869.10346"
-     inkscape:cy="557.33615"
+     inkscape:zoom="0.7453125"
+     inkscape:cx="960"
+     inkscape:cy="475.12791"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      showborder="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      width="1920px" />
   <metadata
@@ -13848,7 +13828,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Open Source</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -13865,13 +13845,13 @@
        height="285.75"
        width="507.86771"
        id="rect10565"
-       style="opacity:1;fill:#840094;fill-opacity:1;stroke:none;stroke-width:0.05290976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#2469de;fill-opacity:0.89552242;stroke:none;stroke-width:0.05290976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path10567"
        d="m 74.93256,196.09154 231.05459,100.90845 h 201.9467 v -60.87497 l -82.0721,-40.08117 z"
-       style="fill:url(#linearGradient11153);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#6e5bff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        d="m 74.93257,196.09154 c 72.8138,0 145.62718,0 218.44108,0 44.0856,0 88.1718,0 132.258,0 3.1804,0 3.1804,-4.93171 0,-4.93171 -72.8139,0 -145.6273,0 -218.4407,0 -44.08614,0 -88.17232,0 -132.25838,0 -3.18014,0 -3.18014,4.93171 0,4.93171 v 0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.05479675"
@@ -13879,20 +13859,20 @@
        inkscape:connector-curvature="0" />
     <text
        id="text10575"
-       y="135.42134"
-       x="119.86295"
+       y="106.31726"
+       x="261.47696"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41097561"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41097561"
-         y="135.42134"
-         x="119.86295"
-         id="tspan10571"
-         sodipodi:role="line">&quot;It's not just a hackathon it's a festival</tspan><tspan
          id="tspan10573"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41097561"
-         y="155.97012"
-         x="119.86295"
-         sodipodi:role="line">So don't just create, Celebrate&quot;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.41097561"
+         y="106.31726"
+         x="263.94925"
+         sodipodi:role="line">&quot;Open source is a beautiful way of </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;font-family:'Fugaz One';-inkscape-font-specification:'Fugaz One';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.41097561"
+         y="127.97962"
+         x="261.47696"
+         sodipodi:role="line"
+         id="tspan20008">collaborating.&quot;</tspan></text>
     <image
        width="107.06805"
        height="35.983334"
@@ -13907,22 +13887,22 @@
        x="40.29435"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.83397865px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.47084942"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.83397865px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.47084942"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.83397865px;font-family:Lemon;-inkscape-font-specification:Lemon;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.47084942"
          y="263.12601"
          x="40.29435"
          id="tspan10579"
-         sodipodi:role="line">Autumn Hacks</tspan></text>
+         sodipodi:role="line">Open Source</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06085587px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27652028"
-       x="298.48038"
-       y="173.40939"
+       x="321.76407"
+       y="163.35536"
        id="text10585"><tspan
          sodipodi:role="line"
-         x="298.48038"
-         y="173.40939"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06085587px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.27652028"
-         id="tspan10583">- Arshdeep Singh</tspan></text>
+         x="321.76407"
+         y="163.35536"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06085587px;font-family:Kalam;-inkscape-font-specification:'Kalam Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.27652028"
+         id="tspan10583">- Suraj Mani</tspan></text>
     <g
        transform="translate(-185.48914,63.647455)"
        id="g11051">
@@ -14837,5 +14817,21 @@
          id="path11149"
          inkscape:connector-curvature="0" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="342.21664"
+       y="154.29138"
+       id="text20016"><tspan
+         sodipodi:role="line"
+         id="tspan20014"
+         x="342.21664"
+         y="163.94688"
+         style="stroke-width:0.26458332"></tspan><tspan
+         sodipodi:role="line"
+         x="342.21664"
+         y="177.17604"
+         style="stroke-width:0.26458332"
+         id="tspan20018" /></text>
   </g>
 </svg>
