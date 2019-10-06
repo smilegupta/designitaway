@@ -15,7 +15,7 @@
    viewBox="0 0 507.99998 285.75001"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="tipsTemplate.svg">
   <defs
      id="defs2">
@@ -13817,7 +13817,7 @@
        y1="160.64049"
        x2="509.08435"
        y2="206.18629"
-       gradientTransform="translate(-230.6379,40.216664)" />
+       gradientTransform="matrix(1.0975701,0,0,1,-301.93226,40.216644)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -13826,18 +13826,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.487118"
-     inkscape:cx="869.10346"
-     inkscape:cy="557.33615"
+     inkscape:zoom="0.34444444"
+     inkscape:cx="1877.3482"
+     inkscape:cy="444.29824"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      showborder="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1019"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-width="1825"
+     inkscape:window-height="1049"
+     inkscape:window-x="86"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      width="1920px" />
   <metadata
@@ -13848,7 +13848,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -13860,8 +13860,8 @@
     <rect
        rx="0"
        ry="0"
-       y="11.24999"
-       x="0.066139162"
+       y="11.249981"
+       x="0.066151269"
        height="285.75"
        width="507.86771"
        id="rect10565"
@@ -13870,29 +13870,25 @@
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path10567"
-       d="m 74.93256,196.09154 231.05459,100.90845 h 201.9467 v -60.87497 l -82.0721,-40.08117 z"
-       style="fill:url(#linearGradient11153);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="M 33.452737,196.09152 287.05135,296.99997 H 508.70201 V 236.125 l -90.07988,-40.08117 z"
+       style="fill:url(#linearGradient11153);fill-opacity:1;stroke:none;stroke-width:0.27719069px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       d="m 74.93257,196.09154 c 72.8138,0 145.62718,0 218.44108,0 44.0856,0 88.1718,0 132.258,0 3.1804,0 3.1804,-4.93171 0,-4.93171 -72.8139,0 -145.6273,0 -218.4407,0 -44.08614,0 -88.17232,0 -132.25838,0 -3.18014,0 -3.18014,4.93171 0,4.93171 v 0"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.05479675"
+       d="m 33.452737,196.09152 c 79.107633,0 158.214803,0 237.322533,0 47.89623,0 95.79312,0 143.69001,0 3.45531,0 3.45531,-4.93171 0,-4.93171 -79.10773,0 -158.21492,0 -237.32211,0 -47.89683,0 -95.793695,0 -143.690433,0 -3.455023,0 -3.455023,4.93171 0,4.93171 v 0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.05711592"
        id="path10569"
        inkscape:connector-curvature="0" />
     <text
        id="text10575"
-       y="135.42134"
-       x="119.86295"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41097561"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41097561"
-         y="135.42134"
-         x="119.86295"
-         id="tspan10571"
-         sodipodi:role="line">&quot;It's not just a hackathon it's a festival</tspan><tspan
-         id="tspan10573"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.43902397px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41097561"
-         y="155.97012"
-         x="119.86295"
-         sodipodi:role="line">So don't just create, Celebrate&quot;</tspan></text>
+       y="92.226105"
+       x="177.84818"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.67575836px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06689405"
+       xml:space="preserve"
+       transform="scale(0.70269971,1.423083)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.67575836px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.06689405"
+         y="92.226105"
+         x="177.84818"
+         sodipodi:role="line"
+         id="tspan3534">&quot;Legal Theft&quot;</tspan></text>
     <image
        width="107.06805"
        height="35.983334"
@@ -13914,15 +13910,16 @@
          sodipodi:role="line">Autumn Hacks</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06085587px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27652028"
-       x="298.48038"
-       y="173.40939"
-       id="text10585"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.13091469px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52827078"
+       x="336.96191"
+       y="130.5029"
+       id="text10585"
+       transform="scale(0.75703819,1.3209373)"><tspan
          sodipodi:role="line"
-         x="298.48038"
-         y="173.40939"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.06085587px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.27652028"
-         id="tspan10583">- Arshdeep Singh</tspan></text>
+         x="336.96191"
+         y="130.5029"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.13091469px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.52827078"
+         id="tspan10583">- Rohit Lalwani</tspan></text>
     <g
        transform="translate(-185.48914,63.647455)"
        id="g11051">
@@ -14633,7 +14630,7 @@
     </g>
     <g
        id="g11095"
-       transform="matrix(0.08650939,-9.6968369e-4,9.6968369e-4,0.08650939,51.60983,147.23962)">
+       transform="matrix(0.08650939,-9.6968369e-4,9.6968369e-4,0.08650939,10.129991,138.79002)">
       <path
          style="fill:#9ad6d4"
          d="m 315.204,394.776 -50.901,80.311 V 340.441 h -16.605 v 134.647 l -50.9,-80.311 -14.026,8.889 66.216,104.477 c 1.522,2.402 4.169,3.858 7.013,3.858 2.844,0 5.49,-1.456 7.013,-3.858 l 66.217,-104.477 z"
@@ -14696,7 +14693,7 @@
          id="g11093" />
     </g>
     <g
-       transform="matrix(0.74190032,-0.09647459,0.09647459,0.74190032,220.73848,-35.287671)"
+       transform="matrix(0.74190032,-0.09647459,0.09647459,0.74190032,229.18807,-41.432832)"
        id="g11151">
       <path
          style="fill:#dd1c4b;stroke-width:0.13569775"
